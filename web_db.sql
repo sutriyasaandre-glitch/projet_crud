@@ -41,7 +41,7 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`nim`, `nama`, `jurusan`, `alamat`, `email`, `no_hp`) VALUES
-('240040093', 'KOMANG ANDRE SUTRI YASA', 'Teknologi informasi', 'JLN MERAK', 'amdre122@gmail.com', '087777777');
+('240040093', 'KOMANG ANDRE SUTRI YASA', 'Teknologi informasi', 'JLN MERAK', 'sutriyasa45@gmail.com', '081234567');
 
 -- --------------------------------------------------------
 
@@ -61,7 +61,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `nama`, `email`, `password`) VALUES
-(9, 'andre', 'andre@gmail.com', '$2y$10$PMveP1OpY/avq/ZNXBMJ6O4h9X0JhIpp4rNQeIy4W7hCiCcic5Tja');
+(9, 'andre', 'sutri45@gmail.com', '$2y$10$PMvebfheg7');
 
 --
 -- Indexes for dumped tables
